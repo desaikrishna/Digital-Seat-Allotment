@@ -1,0 +1,30 @@
+{
+  "name": "digitalseat",
+  "version": "1.0.0",
+  "description": "Seat Announcer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MC-Sagar/DigitalSeat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MC-Sagar/DigitalSeat/issues"
+  },
+  "homepage": "https://github.com/MC-Sagar/DigitalSeat#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "csvjson": "^5.1.0",
+    "csvtojson": "^2.0.8",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "express-fileupload": "^1.0.0",
+    "mysql": "^2.16.0",
+    "nodemailer": "^4.6.8",
+    "nodemon": "^1.18.5"
+  }
+}
